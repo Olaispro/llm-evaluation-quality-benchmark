@@ -1,0 +1,9 @@
+[project]
+name = "llm-evaluation-quality-benchmark"
+version = "0.1.0"
+description = "A reproducible, rubric-based evaluation workflow for comparing generated responses."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 100

@@ -1,0 +1,5 @@
+case_id,model,accuracy,relevance,completeness,safety,instruction_following
+D001,Demo Model A,4,5,3,5,4
+D002,Demo Model A,2,4,3,5,4
+D003,Demo Model B,5,4,4,4,5
+D004,Demo Model B,4,5,4,5,4
